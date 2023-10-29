@@ -1,4 +1,4 @@
-# DevCamper API
+# Authentication API
 
 > Backend API for User Authentication
 
