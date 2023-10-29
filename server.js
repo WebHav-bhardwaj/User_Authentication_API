@@ -23,7 +23,7 @@ const users = require("./Routes/users");
 // Starting express
 const app = express();
 
-// Parsing the Body (we can also use body-parser but this does the same work)
+// Parsing the Body 
 app.use(express.json());
 
 // To use cookie parser to save token
